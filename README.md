@@ -12,5 +12,4 @@ Após clonar o projeto, executar no terminal:
 - cd src
 - npm install
 - npx tsc
-- node .\js\teste\index.js
-  
+- node .\js\app\app.js
